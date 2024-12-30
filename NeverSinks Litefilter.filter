@@ -451,7 +451,7 @@ MinimapIcon 1 Yellow Diamond
 
 Show
 Rarity Normal
-BaseType "Stellar Amulet" "Heavy Belt"
+BaseType "Stellar Amulet" "Heavy Belt" "Sapphire Ring"
 SetFontSize 45
 SetTextColor 28 28 29
 SetBorderColor 28 28 29
